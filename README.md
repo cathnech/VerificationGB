@@ -10,5 +10,6 @@
 ["Russia", "Denmark", "Kazan"] -> []
 
 
-Блок-схема основной части -> *diogram.png*;
-![блок-схема](/diogram.png)
+Блок-схема основной части:
+
+![блок-схема](https://github.com/cathnech/VerificationGB/blob/main/diagram.png?raw=true)
